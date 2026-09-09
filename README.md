@@ -1,4 +1,11 @@
 # Hi, I'm Sajid Manzoor 👋
+### 3. Helpdesk KPI Dashboard [LIVE - Production Engineering]
+**Live:** https://hedesk-dashboard.streamlit.app/ | **Code:** helpdesk-kpi-dashboard
+- **Caching:** Redis Cache-Aside @st.cache_data TTL 3600s + LRU O(1), Single-Flight, Write-Through
+- **Backpressure:** Bounded queues ArrayBlockingQueue, p-limit, Kafka DLQ breach_review
+- **Locks:** ReentrantLock(true) fairness, tryLock(500ms), Redlock via Redis
+- **Auth:** OPA/Casbin policy engine, JWT 15m + refresh, CSRF
+- **Docs:** STRIDE threat model, OWASP Top 10, ADR via log4brains, C4, Swagger, sql_analysis.sql
 ### ML Engineer | Building Production AI at Scale
 
 I build low-latency, high-availability LLM systems - RAG pipelines & multi-agent orchestration.
