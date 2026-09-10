@@ -1,21 +1,23 @@
 # Hi, I'm Sajid Manzoor 👋
 
-*ML Engineer | Python | Building Reliable Systems*
+**Network Infrastructure Engineer | AI Networking Lab | Linux | Python**
 
-## About Me
-- Interest in rate limiting, RAG systems, and production-grade code
-- Focus: Clean code, comprehensive testing, CI/CD
-- Learning: LLMs, distributed systems, software engineering practices
+Building reliable data center fabrics for AI/GPU clusters.
 
-## Projects
+### About Me
+- Focus: Data Center Networking, VLAN, LACP/MLAG, OSPF, BGP, Linux
+- AI Infra: NVIDIA Spectrum, ConnectX, SONiC, Cumulus, RDMA, RoCE v2, GPUDirect, PFC/ECN, MTU 9000, InfiniBand
+- Diagnostics: Wireshark, tcpdump, iperf3, ethtool, ibstat, mlxfwmanager
+- Automation: Bash, Python, Ansible, Docker, Kubernetes Networking, Prometheus, Grafana
 
-- *rater-limiter* — Thread-safe rate limiting with 3 algorithms, 20 passing tests, CI/CD badge
-- *help-center-rag* — TF-IDF based retrieval system for help centers
-- Other projects in development
+### Projects
+- **ai-networking-lab** – SONiC + NVIDIA Spectrum homelab | VLAN LACP MTU9000 RoCEv2 RDMA | Bash Python automation [PINNED #1]
+- **rate-limiter** – Thread-safe rate limiting with 3 algorithms, 20 tests
+- **help-center-rag** – Production RAG pipeline with FAISS + Gemini
 
-## Tech Stack
-Python • FastAPI • pytest • GitHub Actions • scikit-learn
+### Tech Stack
+Linux • SONiC • NVIDIA Spectrum • ConnectX • RoCE v2 • RDMA • InfiniBand • TCP/IP • VLAN • VXLAN • LACP • Python • Bash • Wireshark • Ansible • Docker • K8s • Prometheus
 
 ---
-
-📧 sajidmanzoor730@gmail.com | 📱 +91-9149979829
+📫 sajidmanzoor730@gmail.com | 📞 +91-9149979829
+📍 Remote | Open to Bengaluru
