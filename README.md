@@ -1,22 +1,22 @@
-# Hi, I'm Sajid Manzoor 👋
+#### Hi, I'm Sajid Manzoor 👋 | Full Stack Software Engineer | Go, React, TypeScript
 
-**Network Infrastructure Engineer | AI Networking Lab | Linux | Python**
+**Software Developer @ Global Management Services Delhi | Jan 2024 - Present | 6 Years Full Stack | Remote EST Overlap**
 
-Building reliable data center fabrics for AI/GPU clusters.
+Building SaaS & compliance technology - entity status, standing, filing across US jurisdictions - Stack: React, TypeScript, Go, Temporal, sqlc, PostgreSQL, GKE, Kibu
 
-### About Me
-- Focus: Data Center Networking, VLAN, LACP/MLAG, OSPF, BGP, Linux
-- AI Infra: NVIDIA Spectrum, ConnectX, SONiC, Cumulus, RDMA, RoCE v2, GPUDirect, PFC/ECN, MTU 9000, InfiniBand
-- Diagnostics: Wireshark, tcpdump, iperf3, ethtool, ibstat, mlxfwmanager
-- Automation: Bash, Python, Ansible, Docker, Kubernetes Networking, Prometheus, Grafana
+**About Me**
+- 6 Years professional software engineering, 3+ Years React + TypeScript, 3+ Years Go
+- Extensive relational database design + SQL, PostgreSQL, MySQL, sqlc
+- Enterprise / SaaS business software, high-quality working software, reusable design
+- Excel at debugging defects + regression testing, dislike repetitive work -> build automation tools
+- Effective communicator - distributed team EST, report to CTO, collaborate with Product, Design, Eng Leads
+- Background: 4.2 Years Network Infra (SONiC, NVIDIA Spectrum) + AI Networking Lab - advantage for monitoring platforms
 
-### Projects
-- **ai-networking-lab** – SONiC + NVIDIA Spectrum homelab | VLAN LACP MTU9000 RoCEv2 RDMA | Bash Python automation [PINNED #1]
-- **rate-limiter** – Thread-safe rate limiting with 3 algorithms, 20 tests
-- **help-center-rag** – Production RAG pipeline with FAISS + Gemini
+**Featured - For Discern Inc. Full Stack $135K-$160K**
+- **discern-entity-compliance-platform** - Modern registered agent & entity management software - Go + React + TypeScript + Temporal + sqlc + GKE - Monitors entity status across 50 states [PINNED #1]
 
-### Tech Stack
-Linux • SONiC • NVIDIA Spectrum • ConnectX • RoCE v2 • RDMA • InfiniBand • TCP/IP • VLAN • VXLAN • LACP • Python • Bash • Wireshark • Ansible • Docker • K8s • Prometheus
+**Tech Stack**
+Go • TypeScript • React • Temporal • sqlc • GKE • PostgreSQL • MySQL • Python • Docker • K8s • Linux • SONiC
 
 ---
 📫 sajidmanzoor730@gmail.com | 📞 +91-9149979829
