@@ -1,23 +1,31 @@
-#### Hi, I'm Sajid Manzoor 👋 | Full Stack Software Engineer | Go, React, TypeScript
+#### Hi, I'm Sajid Manzoor 👋 | Software Engineer | Technical Support | Data & Automation
 
-**Software Developer @ Global Management Services Delhi | Jan 2024 - Present | 6 Years Full Stack | Remote EST Overlap**
+**Technical & Operations Professional | Remote | Open to Technology, Support, Data & Operations Roles**
 
-Building SaaS & compliance technology - entity status, standing, filing across US jurisdictions - Stack: React, TypeScript, Go, Temporal, sqlc, PostgreSQL, GKE, Kibu
+Building practical software, analytics, automation, and technical-support solutions across AI/ML, software development, data analysis, and operations.
 
 **About Me**
-- 6 Years professional software engineering, 3+ Years React + TypeScript, 3+ Years Go
-- Extensive relational database design + SQL, PostgreSQL, MySQL, sqlc
-- Enterprise / SaaS business software, high-quality working software, reusable design
-- Excel at debugging defects + regression testing, dislike repetitive work -> build automation tools
-- Effective communicator - distributed team EST, report to CTO, collaborate with Product, Design, Eng Leads
-- Background: 4.2 Years Network Infra (SONiC, NVIDIA Spectrum) + AI Networking Lab - advantage for monitoring platforms
+- Background in software development, technical support, operations, QA, and data analysis
+- Experience working with Python, JavaScript, Go, React, TypeScript, SQL, PostgreSQL, MySQL, Linux, Docker and Kubernetes
+- Interested in AI/ML, LLM applications, automation, analytics, and practical business technology
+- Strong focus on troubleshooting, debugging, process improvement, documentation, and automation
+- Experience working with APIs, databases, networking, system administration, CRM, and operational workflows
+- Comfortable working with distributed teams, managing priorities, documenting solutions, and supporting customers and internal teams
 
-**Featured - For Discern Inc. Full Stack $135K-$160K**
-- **discern-entity-compliance-platform** - Modern registered agent & entity management software - Go + React + TypeScript + Temporal + sqlc + GKE - Monitors entity status across 50 states [PINNED #1]
+**Featured Projects**
+
+- **Helpdesk KPI & Operations Analytics Dashboard** — Python, Pandas, SQL, Power BI, Streamlit, Redis, Kafka
+  - Helpdesk ticket analytics, SLA, CSAT, MTTR, repeat-ticket analysis, data cleaning and KPI reporting
+  - [View Repository](https://github.com/sajidmanzoor730/helpdesk-kpi-dashboard)
 
 **Tech Stack**
-Go • TypeScript • React • Temporal • sqlc • GKE • PostgreSQL • MySQL • Python • Docker • K8s • Linux • SONiC
+
+Python • JavaScript • Go • TypeScript • React • Node.js • SQL • PostgreSQL • MySQL • 
+Pandas • Power BI • Streamlit • Docker • Kubernetes • Linux • REST APIs • Git • GitHub • 
+Bash • Redis • Kafka
 
 ---
-📫 sajidmanzoor730@gmail.com | 📞 +91-9149979829
-📍 Remote | Open to Bengaluru
+
+📫 sajidmanzoor730@gmail.com
+📍 Jammu & Kashmir, India
+💼 Open to Remote Opportunities
