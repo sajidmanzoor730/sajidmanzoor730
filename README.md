@@ -1,31 +1,49 @@
-#### Hi, I'm Sajid Manzoor 👋 | Software Engineer | Technical Support | Data & Automation
+# VoIP Support Automation Toolkit
 
-**Technical & Operations Professional | Remote | Open to Technology, Support, Data & Operations Roles**
+> Identified repeatable patterns and proposed automation opportunities from 500+ L1/L2 tickets. Built platform fluency and contributed to knowledge management.
 
-Building practical software, analytics, automation, and technical-support solutions across AI/ML, software development, data analysis, and operations.
+## 📌 Overview
+Built from real L1/L2 support experience at A2N Technologies handling VoIP & SaaS tickets. Analyzed 500+ tickets and found 40% volume is repeatable. Built automation toolkit to reduce manual effort and deflect tickets.
 
-**About Me**
-- Background in software development, technical support, operations, QA, and data analysis
-- Experience working with Python, JavaScript, Go, React, TypeScript, SQL, PostgreSQL, MySQL, Linux, Docker and Kubernetes
-- Interested in AI/ML, LLM applications, automation, analytics, and practical business technology
-- Strong focus on troubleshooting, debugging, process improvement, documentation, and automation
-- Experience working with APIs, databases, networking, system administration, CRM, and operational workflows
-- Comfortable working with distributed teams, managing priorities, documenting solutions, and supporting customers and internal teams
+**Live Monitoring:** VoIP Network Health Dashboard for SIP/RTP health, packet loss, call quality.
 
-**Featured Projects**
+## 🔍 Problem Identified (From 500+ Tickets)
+- **SIP Registration Failures (18%):** 401 Unauthorized, 403 Forbidden, 486 Busy Here
+- **One-way Audio (12%):** NAT/Firewall, RTP port block
+- **API Integration Failures (10%):** Auth token expiry, rate limiting
 
-- **Helpdesk KPI & Operations Analytics Dashboard** — Python, Pandas, SQL, Power BI, Streamlit, Redis, Kafka
-  - Helpdesk ticket analytics, SLA, CSAT, MTTR, repeat-ticket analysis, data cleaning and KPI reporting
-  - [View Repository](https://github.com/sajidmanzoor730/helpdesk-kpi-dashboard)
+**Impact before:** High MTTR, P1 > 4hrs, repetitive L1 manual work
 
-**Tech Stack**
+## ✅ Solution Built
 
-Python • JavaScript • Go • TypeScript • React • Node.js • SQL • PostgreSQL • MySQL • 
-Pandas • Power BI • Streamlit • Docker • Kubernetes • Linux • REST APIs • Git • GitHub • 
-Bash • Redis • Kafka
+### 1. Zendesk Suite Automation
+- **Triggers:** Auto-tag `voip_sip_failure`, `one_way_audio`, auto-prioritize P1/P2
+- **Automations:** SLA breach alert < 2hr for P1, auto-escalate to L2
+- **Macros:** 50+ Canned Responses for SIP 401/403/486, RTP loss, NAT issues
+- **Views:** L2 Queue, P1 Open, VoIP Health Issues
+- **Help Center:** 30+ KB Articles
 
----
+### 2. JIRA Service Management
+- JQL: `project = SUP AND issuetype = "VoIP Issue" AND status != Done`
+- Automation Rules: Auto-link Zendesk ticket to JIRA, SLA tracking
+- SLA Management: P1 < 2hr, P2 < 8hr, P3 < 24hr
 
-📫 sajidmanzoor730@gmail.com
-📍 Jammu & Kashmir, India
-💼 Open to Remote Opportunities
+### 3. Wireshark Filter Library
+```bash
+# SIP Failures
+sip.Status-Code == 401
+sip.Status-Code == 403
+sip contains "Unauthorized"
+sip || rtp
+stun
+
+# RTP Analysis
+rtp
+rtp.ssrc
+rtp.marker
+rtp.seq
+rtp.timestamp
+
+# One-way Audio Debug
+sip && ip.addr == <customer_ip>
+rtp && udp.port == 10000-20000
