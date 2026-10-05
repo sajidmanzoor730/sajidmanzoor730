@@ -1,37 +1,56 @@
 Sajid Manzoor
 
-Technical Support | Python | SQL | Automation | AI
+Technical Support · Python · SQL · Automation · AI
 
-I work across technical support, operations, data, and automation. Most of my projects start with a practical problem — understanding an issue, improving a workflow, or making a process easier to monitor — and then using code to solve it.
+"LinkedIn" (YOUR_LINKEDIN_URL) · "Email" (mailto:sajidmanzoor730@gmail.com) · "Repositories" (https://github.com/sajidmanzoor730?tab=repositories)
 
-My GitHub is where I document that work through hands-on projects in support tooling, data analysis, Python engineering, AI applications, and networking.
+---
 
-Selected projects
+About
 
-"Help Center RAG" (https://github.com/sajidmanzoor730/help-center-rag)
-A domain-specific retrieval system built with Python, FAISS and Gemini, focused on improving the accuracy and relevance of help-center answers.
+I work across technical support, operations, and technology, with a growing focus on Python, automation, data, and AI.
 
-"Rate Limiter" (https://github.com/sajidmanzoor730/rate-limiter)
-A thread-safe Python rate-limiting library implementing token-bucket, sliding-window and fixed-window approaches, with tests and CI.
+I use GitHub to build practical projects, experiment with new ideas, and document things I've learned along the way.
 
-"Helpdesk KPI Dashboard" (https://github.com/sajidmanzoor730/helpdesk-kpi-dashboard)
-A support analytics project covering ticket cleaning, SQL analysis, SLA and CSAT metrics, validation, and dashboard reporting.
+---
 
-"Customer Onboarding Lab" (https://github.com/sajidmanzoor730/customer-onboarding-lab)
-A Linux-based support lab covering onboarding checks, troubleshooting, log analysis, automation, and runbook documentation.
+What I work with
 
-Tools
+Area| Tools
+Programming| Python · SQL · JavaScript
+Data| Pandas · Excel · Power BI
+AI| RAG · LLM APIs · FAISS
+Support| Jira · ServiceNow · Linux
+Development| Git · GitHub · REST APIs · Testing
 
-Python · SQL · Pandas · Power BI · Streamlit · Excel · Git · Linux · Jira · ServiceNow
+---
+
+Projects
+
+Project| What it is
+Help Center RAG| Knowledge-base search and question answering using RAG
+Rate Limiter| Thread-safe Python rate-limiting implementations
+Helpdesk KPI Dashboard| Support ticket analysis, SLA and CSAT reporting
+Customer Onboarding Lab| Practical troubleshooting and support workflows
+
+→ "View all repositories" (https://github.com/sajidmanzoor730?tab=repositories)
+
+---
 
 Background
 
 BCA · CCNA · AWS Cloud Practitioner
 
-My professional experience includes technical support, client-facing work, quality control, operations, and technical training.
+Technical support · Operations · Quality · Client-facing work · Technical training
 
-Currently building
+---
 
-Projects around support automation, data workflows, AI-assisted tools, and practical Python engineering.
+Currently
 
-"LinkedIn" (YOUR_LINKEDIN_URL) · "Email" (mailto:sajidmanzoor730@gmail.com)
+Building and improving projects around Python, support automation, data workflows, and AI.
+
+---
+
+<p align="center">
+  <sub>Building things, breaking things, fixing them, and learning along the way.</sub>
+</p>
