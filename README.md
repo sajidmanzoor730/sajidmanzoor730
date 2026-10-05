@@ -1,27 +1,37 @@
-# Sajid Manzoor
+Sajid Manzoor
 
-**Operations & Data Analyst** · Python · SQL · Power BI · Streamlit
+Technical Support | Python | SQL | Automation | AI
 
-I turn messy operational data into clear KPIs and dashboards that teams can act on.
+I work across technical support, operations, data, and automation. Most of my projects start with a practical problem — understanding an issue, improving a workflow, or making a process easier to monitor — and then using code to solve it.
 
-Open to Data Analyst, Operations Analyst, and Network Operations Analyst roles · Bengaluru, India
+My GitHub is where I document that work through hands-on projects in support tooling, data analysis, Python engineering, AI applications, and networking.
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [Email](mailto: sajidmanzoor730@gmail.com) · [Live demo](https://hedesk-dashboard.streamlit.app/)
+Selected projects
 
----
+"Help Center RAG" (https://github.com/sajidmanzoor730/help-center-rag)
+A domain-specific retrieval system built with Python, FAISS and Gemini, focused on improving the accuracy and relevance of help-center answers.
 
-## Featured project
+"Rate Limiter" (https://github.com/sajidmanzoor730/rate-limiter)
+A thread-safe Python rate-limiting library implementing token-bucket, sliding-window and fixed-window approaches, with tests and CI.
 
-**[Helpdesk KPI Dashboard](https://github.com/sajidmanzoor730/helpdesk-kpi-dashboard)**
+"Helpdesk KPI Dashboard" (https://github.com/sajidmanzoor730/helpdesk-kpi-dashboard)
+A support analytics project covering ticket cleaning, SQL analysis, SLA and CSAT metrics, validation, and dashboard reporting.
 
-Turned a messy ticket export into a live dashboard. Cleaned 1,020 raw rows into 1,000 unique tickets, tracked SLA adherence, CSAT, and repeat tickets, and built Streamlit and Power BI views. Uses synthetic sample data.
+"Customer Onboarding Lab" (https://github.com/sajidmanzoor730/customer-onboarding-lab)
+A Linux-based support lab covering onboarding checks, troubleshooting, log analysis, automation, and runbook documentation.
 
-## What I work with
+Tools
 
-Data cleaning · KPI reporting · SQL analysis · SLA and CSAT tracking · Root cause analysis
+Python · SQL · Pandas · Power BI · Streamlit · Excel · Git · Linux · Jira · ServiceNow
 
-**Tools:** Python, Pandas, SQL, Power BI, Streamlit, Excel
+Background
 
-## Background
+BCA · CCNA · AWS Cloud Practitioner
 
-BCA, Amar Singh College · CCNA · AWS Cloud Practitioner
+My professional experience includes technical support, client-facing work, quality control, operations, and technical training.
+
+Currently building
+
+Projects around support automation, data workflows, AI-assisted tools, and practical Python engineering.
+
+"LinkedIn" (YOUR_LINKEDIN_URL) · "Email" (mailto:sajidmanzoor730@gmail.com)
