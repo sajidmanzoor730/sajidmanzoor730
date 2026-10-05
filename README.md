@@ -1,56 +1,120 @@
-Sajid Manzoor
+<div align="center">
 
-Technical Support · Python · SQL · Automation · AI
+# Sajid Manzoor
 
-"LinkedIn" (YOUR_LINKEDIN_URL) · "Email" (mailto:sajidmanzoor730@gmail.com) · "Repositories" (https://github.com/sajidmanzoor730?tab=repositories)
+### Technical Support · Python · SQL · Automation · AI
 
----
+I build practical tools around support, data, automation, and AI.
 
-About
+<br>
 
-I work across technical support, operations, and technology, with a growing focus on Python, automation, data, and AI.
+[LinkedIn](YOUR_LINKEDIN_URL) · [Email](mailto:sajidmanzoor730@gmail.com) · [Repositories](https://github.com/sajidmanzoor730?tab=repositories)
 
-I use GitHub to build practical projects, experiment with new ideas, and document things I've learned along the way.
-
----
-
-What I work with
-
-Area| Tools
-Programming| Python · SQL · JavaScript
-Data| Pandas · Excel · Power BI
-AI| RAG · LLM APIs · FAISS
-Support| Jira · ServiceNow · Linux
-Development| Git · GitHub · REST APIs · Testing
+</div>
 
 ---
 
-Projects
+## 👋 A little about me
 
-Project| What it is
-Help Center RAG| Knowledge-base search and question answering using RAG
-Rate Limiter| Thread-safe Python rate-limiting implementations
-Helpdesk KPI Dashboard| Support ticket analysis, SLA and CSAT reporting
-Customer Onboarding Lab| Practical troubleshooting and support workflows
+My background is in **technical support, operations, quality, and client-facing work**.
 
-→ "View all repositories" (https://github.com/sajidmanzoor730?tab=repositories)
+Alongside that work, I've been building software projects to get deeper into Python, data, backend systems, and AI.
+
+I prefer projects that solve a real problem rather than projects built just to demonstrate a technology.
 
 ---
 
-Background
+## 🧰 Tools I use
 
-BCA · CCNA · AWS Cloud Practitioner
-
-Technical support · Operations · Quality · Client-facing work · Technical training
+<table>
+<tr>
+<td><b>Programming</b></td>
+<td>Python · SQL · JavaScript</td>
+</tr>
+<tr>
+<td><b>Data</b></td>
+<td>Pandas · Excel · Power BI · Streamlit</td>
+</tr>
+<tr>
+<td><b>AI</b></td>
+<td>RAG · LLM APIs · FAISS</td>
+</tr>
+<tr>
+<td><b>Systems</b></td>
+<td>Linux · REST APIs · Testing · Git</td>
+</tr>
+<tr>
+<td><b>Support</b></td>
+<td>Jira · ServiceNow · Troubleshooting</td>
+</tr>
+</table>
 
 ---
 
-Currently
+## ⭐ Projects I'm most proud of
 
-Building and improving projects around Python, support automation, data workflows, and AI.
+### 🤖 Help Center RAG
+**Python · RAG · FAISS · LLM APIs**
+
+A knowledge-base question-answering project focused on retrieving relevant information before generating an answer.
+
+→ [View repository](https://github.com/sajidmanzoor730/help-center-rag)
 
 ---
 
-<p align="center">
-  <sub>Building things, breaking things, fixing them, and learning along the way.</sub>
-</p>
+### ⚙️ Rate Limiter
+**Python · Concurrency · Testing**
+
+A Python implementation of common rate-limiting approaches, including token bucket, sliding window, and fixed window.
+
+→ [View repository](https://github.com/sajidmanzoor730/rate-limiter)
+
+---
+
+### 📊 Helpdesk KPI Dashboard
+**Python · SQL · Pandas · Streamlit · Power BI**
+
+A support analytics project for looking at ticket volume, SLA performance, CSAT, resolution trends, and recurring issues.
+
+→ [View repository](https://github.com/sajidmanzoor730/helpdesk-kpi-dashboard)
+
+---
+
+### 🛠️ Customer Onboarding Lab
+**Linux · Troubleshooting · Automation · Documentation**
+
+A practical support environment covering onboarding checks, troubleshooting, logs, and repeatable support workflows.
+
+→ [View repository](https://github.com/sajidmanzoor730/customer-onboarding-lab)
+
+---
+
+## 🎓 Background
+
+**BCA**  
+**CCNA**  
+**AWS Cloud Practitioner**
+
+My professional experience has covered:
+
+`Technical Support` · `Operations` · `Quality` · `Client Support` · `Technical Training`
+
+---
+
+## 🔭 What I'm working on
+
+Currently spending more time on:
+
+**Python → Automation → Data → AI**
+
+and building projects that connect those areas with the problems I've worked with professionally.
+
+---
+
+<div align="center">
+
+### Thanks for stopping by.
+
+*Building things, learning from them, and improving them along the way.*
+
+</div>
