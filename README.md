@@ -1,120 +1,119 @@
-<div align="center">
-
 # Sajid Manzoor
 
-### Technical Support · Python · SQL · Automation · AI
+**Technical Support Engineer | Python | SQL | Automation | Data Analysis | AI**
 
-I build practical tools around support, data, automation, and AI.
+Technical support and operations professional with experience in troubleshooting, quality control, client support, technical training, and process improvement.
 
-<br>
-
-[LinkedIn](YOUR_LINKEDIN_URL) · [Email](mailto:sajidmanzoor730@gmail.com) · [Repositories](https://github.com/sajidmanzoor730?tab=repositories)
-
-</div>
+I use Python, SQL, data analysis, and automation to build practical solutions for support and operational problems. I also build projects around AI, Retrieval-Augmented Generation (RAG), backend systems, and support analytics.
 
 ---
 
-## 👋 A little about me
+## Core Skills
 
-My background is in **technical support, operations, quality, and client-facing work**.
+**Programming:** Python, SQL, JavaScript
 
-Alongside that work, I've been building software projects to get deeper into Python, data, backend systems, and AI.
+**Data & Analytics:** Pandas, Excel, Power BI, Streamlit, Data Cleaning, Data Analysis, KPI Reporting
 
-I prefer projects that solve a real problem rather than projects built just to demonstrate a technology.
+**AI & Machine Learning:** RAG, Large Language Models (LLMs), LLM APIs, FAISS, Information Retrieval
 
----
+**Backend & Software:** REST APIs, API Integration, Testing, Concurrency, Automation
 
-## 🧰 Tools I use
+**Systems & Support:** Linux, Technical Troubleshooting, Incident Management, Root Cause Analysis, Jira, ServiceNow
 
-<table>
-<tr>
-<td><b>Programming</b></td>
-<td>Python · SQL · JavaScript</td>
-</tr>
-<tr>
-<td><b>Data</b></td>
-<td>Pandas · Excel · Power BI · Streamlit</td>
-</tr>
-<tr>
-<td><b>AI</b></td>
-<td>RAG · LLM APIs · FAISS</td>
-</tr>
-<tr>
-<td><b>Systems</b></td>
-<td>Linux · REST APIs · Testing · Git</td>
-</tr>
-<tr>
-<td><b>Support</b></td>
-<td>Jira · ServiceNow · Troubleshooting</td>
-</tr>
-</table>
+**Development Tools:** Git, GitHub, VS Code
 
 ---
 
-## ⭐ Projects I'm most proud of
+## Featured Projects
 
-### 🤖 Help Center RAG
-**Python · RAG · FAISS · LLM APIs**
+### Help Center RAG
 
-A knowledge-base question-answering project focused on retrieving relevant information before generating an answer.
+**Python | RAG | FAISS | LLM APIs**
 
-→ [View repository](https://github.com/sajidmanzoor730/help-center-rag)
+A Retrieval-Augmented Generation application that searches a knowledge base for relevant information before generating answers.
 
----
+The project focuses on document retrieval, semantic search, context selection, and integrating retrieved information with an LLM.
 
-### ⚙️ Rate Limiter
-**Python · Concurrency · Testing**
-
-A Python implementation of common rate-limiting approaches, including token bucket, sliding window, and fixed window.
-
-→ [View repository](https://github.com/sajidmanzoor730/rate-limiter)
+[View project](https://github.com/sajidmanzoor730/help-center-rag)
 
 ---
 
-### 📊 Helpdesk KPI Dashboard
-**Python · SQL · Pandas · Streamlit · Power BI**
+### Rate Limiter
 
-A support analytics project for looking at ticket volume, SLA performance, CSAT, resolution trends, and recurring issues.
+**Python | Concurrency | Testing | Backend Engineering**
 
-→ [View repository](https://github.com/sajidmanzoor730/helpdesk-kpi-dashboard)
+A Python rate-limiting library implementing multiple approaches, including token bucket, sliding window, and fixed window algorithms.
 
----
+The project focuses on thread safety, concurrency, testing, and understanding the trade-offs between different rate-limiting strategies.
 
-### 🛠️ Customer Onboarding Lab
-**Linux · Troubleshooting · Automation · Documentation**
-
-A practical support environment covering onboarding checks, troubleshooting, logs, and repeatable support workflows.
-
-→ [View repository](https://github.com/sajidmanzoor730/customer-onboarding-lab)
+[View project](https://github.com/sajidmanzoor730/rate-limiter)
 
 ---
 
-## 🎓 Background
+### Helpdesk KPI Dashboard
 
-**BCA**  
-**CCNA**  
-**AWS Cloud Practitioner**
+**Python | SQL | Pandas | Streamlit | Power BI | Data Analysis**
 
-My professional experience has covered:
+A support analytics project for analyzing helpdesk data and monitoring operational metrics.
 
-`Technical Support` · `Operations` · `Quality` · `Client Support` · `Technical Training`
+The project covers data cleaning, SQL analysis, ticket volume, SLA performance, CSAT, resolution trends, and recurring support issues.
 
----
-
-## 🔭 What I'm working on
-
-Currently spending more time on:
-
-**Python → Automation → Data → AI**
-
-and building projects that connect those areas with the problems I've worked with professionally.
+[View project](https://github.com/sajidmanzoor730/helpdesk-kpi-dashboard)
 
 ---
 
-<div align="center">
+### Customer Onboarding Lab
 
-### Thanks for stopping by.
+**Technical Support | Linux | Troubleshooting | Automation | Documentation**
 
-*Building things, learning from them, and improving them along the way.*
+A practical technical support project covering customer onboarding, system checks, troubleshooting, log analysis, and repeatable support procedures.
 
-</div>
+The project demonstrates structured troubleshooting and documentation of common technical issues.
+
+[View project](https://github.com/sajidmanzoor730/customer-onboarding-lab)
+
+---
+
+## Professional Focus
+
+My professional background includes:
+
+- Technical Support
+- Customer Support
+- Technical Training
+- Quality Assurance
+- Operations
+- Troubleshooting
+- Process Improvement
+- Client Communication
+- Ticket and Case Management
+
+---
+
+## Education & Certifications
+
+**Bachelor of Computer Applications (BCA)**
+
+**Cisco Certified Network Associate (CCNA)**
+
+**AWS Certified Cloud Practitioner**
+
+---
+
+## Current Focus
+
+Currently building projects around:
+
+**Python · SQL · Automation · Data Analysis · Technical Support · AI · RAG · Backend Engineering**
+
+I'm particularly interested in opportunities involving technical support engineering, technical operations, data/operations analytics, QA, automation, and AI-related work.
+
+---
+
+## Connect
+
+**LinkedIn:** [Add LinkedIn URL]
+
+**Email:** [Add professional email]
+
+**GitHub:** [github.com/sajidmanzoor730](https://github.com/sajidmanzoor730)
