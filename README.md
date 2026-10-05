@@ -1,119 +1,98 @@
-# Sajid Manzoor
+Hi, I'm Sajid 👋
 
-**Technical Support Engineer | Python | SQL | Automation | Data Analysis | AI**
+Data Analyst | SQL | Python | Power BI | Excel
 
-Technical support and operations professional with experience in troubleshooting, quality control, client support, technical training, and process improvement.
+I work with operational and support data to turn messy information into clear KPIs, dashboards, and useful insights.
 
-I use Python, SQL, data analysis, and automation to build practical solutions for support and operational problems. I also build projects around AI, Retrieval-Augmented Generation (RAG), backend systems, and support analytics.
-
----
-
-## Core Skills
-
-**Programming:** Python, SQL, JavaScript
-
-**Data & Analytics:** Pandas, Excel, Power BI, Streamlit, Data Cleaning, Data Analysis, KPI Reporting
-
-**AI & Machine Learning:** RAG, Large Language Models (LLMs), LLM APIs, FAISS, Information Retrieval
-
-**Backend & Software:** REST APIs, API Integration, Testing, Concurrency, Automation
-
-**Systems & Support:** Linux, Technical Troubleshooting, Incident Management, Root Cause Analysis, Jira, ServiceNow
-
-**Development Tools:** Git, GitHub, VS Code
+My main tools are SQL, Python, Pandas, Power BI, Excel, and data visualization, with a technical background in support, automation, and systems.
 
 ---
 
-## Featured Projects
+📊 What I Work With
 
-### Help Center RAG
-
-**Python | RAG | FAISS | LLM APIs**
-
-A Retrieval-Augmented Generation application that searches a knowledge base for relevant information before generating answers.
-
-The project focuses on document retrieval, semantic search, context selection, and integrating retrieved information with an LLM.
-
-[View project](https://github.com/sajidmanzoor730/help-center-rag)
-
----
-
-### Rate Limiter
-
-**Python | Concurrency | Testing | Backend Engineering**
-
-A Python rate-limiting library implementing multiple approaches, including token bucket, sliding window, and fixed window algorithms.
-
-The project focuses on thread safety, concurrency, testing, and understanding the trade-offs between different rate-limiting strategies.
-
-[View project](https://github.com/sajidmanzoor730/rate-limiter)
+Area| Tools
+Data Analysis| SQL, Python, Pandas
+BI & Reporting| Power BI, Excel
+Data Quality| Data Cleaning, Validation, QA
+Analytics| KPI Reporting, SLA Analysis, Operational Analytics
+Automation| Python, Bash, APIs
+Technical| Linux, Networking, REST APIs
+Documentation| Git, Markdown, Runbooks
 
 ---
 
-### Helpdesk KPI Dashboard
+⭐ Featured Projects
 
-**Python | SQL | Pandas | Streamlit | Power BI | Data Analysis**
+01 — Helpdesk KPI Dashboard
 
-A support analytics project for analyzing helpdesk data and monitoring operational metrics.
+SQL · Python · Pandas · Power BI · Streamlit
 
-The project covers data cleaning, SQL analysis, ticket volume, SLA performance, CSAT, resolution trends, and recurring support issues.
+An end-to-end support analytics project covering ticket cleaning, KPI calculation, SLA performance, CSAT, resolution trends, and dashboard reporting.
 
-[View project](https://github.com/sajidmanzoor730/helpdesk-kpi-dashboard)
+Focus: Operational Analytics · KPI Reporting · Data Cleaning · Business Intelligence
 
----
-
-### Customer Onboarding Lab
-
-**Technical Support | Linux | Troubleshooting | Automation | Documentation**
-
-A practical technical support project covering customer onboarding, system checks, troubleshooting, log analysis, and repeatable support procedures.
-
-The project demonstrates structured troubleshooting and documentation of common technical issues.
-
-[View project](https://github.com/sajidmanzoor730/customer-onboarding-lab)
+→ "View project" (https://github.com/sajidmanzoor730/helpdesk-kpi-dashboard)
 
 ---
 
-## Professional Focus
+02 — VoIP Support Automation
 
-My professional background includes:
+SQL · Python · SIP · Wireshark · SQLite
 
-- Technical Support
-- Customer Support
-- Technical Training
-- Quality Assurance
-- Operations
-- Troubleshooting
-- Process Improvement
-- Client Communication
-- Ticket and Case Management
+A technical support analytics and troubleshooting project that extracts VoIP/SIP information, analyzes call-related data, and uses SQL and Python to investigate recurring issues.
+
+Focus: SQL Analysis · Operational Data · Troubleshooting · Automation
+
+→ "View project" (https://github.com/sajidmanzoor730/voip-support-automation)
 
 ---
 
-## Education & Certifications
+03 — Customer Onboarding Lab
 
-**Bachelor of Computer Applications (BCA)**
+Python · Bash · Linux · Log Analysis
 
-**Cisco Certified Network Associate (CCNA)**
+A simulated customer onboarding workflow covering health checks, log analysis, troubleshooting, documentation, and escalation.
 
-**AWS Certified Cloud Practitioner**
+Focus: Operations · Data/Log Analysis · Process Improvement · Automation
 
----
-
-## Current Focus
-
-Currently building projects around:
-
-**Python · SQL · Automation · Data Analysis · Technical Support · AI · RAG · Backend Engineering**
-
-I'm particularly interested in opportunities involving technical support engineering, technical operations, data/operations analytics, QA, automation, and AI-related work.
+→ "View project" (https://github.com/sajidmanzoor730/customer-onboarding-lab)
 
 ---
 
-## Connect
+🧰 Technical Background
 
-**LinkedIn:** [Add LinkedIn URL]
+Alongside analytics, I have hands-on experience with technical support, automation, networking, and AI systems.
 
-**Email:** [Add professional email]
+Some supporting projects include:
 
-**GitHub:** [github.com/sajidmanzoor730](https://github.com/sajidmanzoor730)
+- Help Center RAG — semantic search and retrieval-augmented generation
+- Rate Limiter — thread-safe Python algorithms and testing
+- AI Networking Lab — Linux networking, validation, and automation
+- Unified Chat Orchestrator — multi-agent LLM orchestration
+
+These projects reflect my broader technical background while my primary career focus is Data Analytics.
+
+---
+
+📈 Currently Focused On
+
+- SQL & data analysis
+- Python / Pandas
+- Power BI dashboards
+- KPI and operational reporting
+- Data cleaning & validation
+- Turning business problems into measurable metrics
+
+---
+
+🔗 Connect
+
+Portfolio:
+https://sajidmanzoor730.github.io/sajid-portfolio/
+
+GitHub:
+https://github.com/sajidmanzoor730
+
+---
+
+Building practical analytics projects from real-world operational problems.
