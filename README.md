@@ -1,98 +1,88 @@
-Hi, I'm Sajid 👋
+# Sajid Manzoor
 
-Data Analyst | SQL | Python | Power BI | Excel
+**Data Analyst | SQL | Python | Power BI | Excel | KPI & Operations Analytics**
 
-I work with operational and support data to turn messy information into clear KPIs, dashboards, and useful insights.
+I work with operational data to turn messy records into reliable KPIs, dashboards, reports, and practical business insights.
 
-My main tools are SQL, Python, Pandas, Power BI, Excel, and data visualization, with a technical background in support, automation, and systems.
+My current focus is **Data Analytics and Operations Analytics**, with hands-on work across SQL, Python/Pandas, Power BI, Excel, data quality, KPI reporting, and operational reporting.
 
----
+## What I Work With
 
-📊 What I Work With
+| Area | Skills |
+|---|---|
+| **Data Analysis** | SQL, Python, Pandas, NumPy, EDA, trend analysis |
+| **BI & Reporting** | Power BI, DAX, Excel, KPI dashboards |
+| **Data Quality** | Cleaning, validation, reconciliation, duplicate detection |
+| **Business Analytics** | KPI reporting, SLA analysis, root-cause analysis, operational analytics |
+| **Automation** | Python, Bash, APIs, repeatable data workflows |
+| **Supporting Tools** | GitHub, JIRA, ServiceNow, Notion, Confluence |
 
-Area| Tools
-Data Analysis| SQL, Python, Pandas
-BI & Reporting| Power BI, Excel
-Data Quality| Data Cleaning, Validation, QA
-Analytics| KPI Reporting, SLA Analysis, Operational Analytics
-Automation| Python, Bash, APIs
-Technical| Linux, Networking, REST APIs
-Documentation| Git, Markdown, Runbooks
+## Featured Analytics Projects
 
----
+### 01 — Helpdesk KPI Dashboard
 
-⭐ Featured Projects
+**Python · Pandas · SQL · Power BI · Streamlit**
 
-01 — Helpdesk KPI Dashboard
+End-to-end helpdesk analytics covering data cleaning, KPI calculation, SLA performance, CSAT, resolution trends, repeat tickets, and dashboard reporting.
 
-SQL · Python · Pandas · Power BI · Streamlit
+**What it demonstrates:** data preparation → SQL analysis → KPI development → dashboard reporting → business findings
 
-An end-to-end support analytics project covering ticket cleaning, KPI calculation, SLA performance, CSAT, resolution trends, and dashboard reporting.
+[View project](https://github.com/sajidmanzoor730/helpdesk-kpi-dashboard)
 
-Focus: Operational Analytics · KPI Reporting · Data Cleaning · Business Intelligence
+### 02 — BI Validation & Monitoring
 
-→ "View project" (https://github.com/sajidmanzoor730/helpdesk-kpi-dashboard)
+**SQL · Python · Power BI · Data Quality**
 
----
+A BI validation workflow covering data-quality checks, SQL reconciliation, KPI validation, refresh review, and investigation of reporting issues.
 
-02 — VoIP Support Automation
+**What it demonstrates:** validation → reconciliation → KPI accuracy → reporting reliability
 
-SQL · Python · SIP · Wireshark · SQLite
+[View project](https://github.com/sajidmanzoor730/bi-validation)
 
-A technical support analytics and troubleshooting project that extracts VoIP/SIP information, analyzes call-related data, and uses SQL and Python to investigate recurring issues.
+### 03 — KPI Operations Dashboard
 
-Focus: SQL Analysis · Operational Data · Troubleshooting · Automation
+**Excel · PivotTables · KPI Reporting**
 
-→ "View project" (https://github.com/sajidmanzoor730/voip-support-automation)
+Operational reporting focused on completion, QA accuracy, SLA achievement, status tracking, and performance trends.
 
----
+**What it demonstrates:** KPI design → operational reporting → performance monitoring
 
-03 — Customer Onboarding Lab
+[View portfolio project](https://sajidmanzoor730.github.io/sajid-portfolio/kpi-operations-dashboard.html)
 
-Python · Bash · Linux · Log Analysis
+## How I Approach Analytics
 
-A simulated customer onboarding workflow covering health checks, log analysis, troubleshooting, documentation, and escalation.
+**1. Understand** — inspect the source data, definitions, missing values, duplicates, and business rules.
 
-Focus: Operations · Data/Log Analysis · Process Improvement · Automation
+**2. Prepare** — clean, validate, reconcile, and transform the data using Python/Pandas and SQL.
 
-→ "View project" (https://github.com/sajidmanzoor730/customer-onboarding-lab)
+**3. Analyze** — calculate meaningful KPIs, identify trends, investigate exceptions, and answer business questions.
 
----
+**4. Communicate** — turn validated results into clear dashboards, reports, and actionable findings.
 
-🧰 Technical Background
+## Professional Focus
 
-Alongside analytics, I have hands-on experience with technical support, automation, networking, and AI systems.
+My professional background is in **operations and data-focused work**, where accuracy, reporting, quality checks, process tracking, and issue investigation matter.
 
-Some supporting projects include:
+I'm currently targeting **Data Analyst, Business Analyst, BI, and Operations Analytics** opportunities.
 
-- Help Center RAG — semantic search and retrieval-augmented generation
-- Rate Limiter — thread-safe Python algorithms and testing
-- AI Networking Lab — Linux networking, validation, and automation
-- Unified Chat Orchestrator — multi-agent LLM orchestration
+## Technical Background
 
-These projects reflect my broader technical background while my primary career focus is Data Analytics.
+I also have a technical foundation in support, automation, networking, APIs, and systems. These skills support my analytics work, but my primary career direction is **Data Analytics**.
 
----
+## Currently Focused On
 
-📈 Currently Focused On
-
-- SQL & data analysis
-- Python / Pandas
-- Power BI dashboards
-- KPI and operational reporting
-- Data cleaning & validation
+- SQL analysis and business queries
+- Python / Pandas data workflows
+- Power BI and KPI dashboards
+- Excel reporting
+- Data cleaning and validation
+- Operational analytics
 - Turning business problems into measurable metrics
 
----
+## Connect
 
-🔗 Connect
+**Portfolio:** https://sajidmanzoor730.github.io/sajid-portfolio/  
+**LinkedIn:** https://www.linkedin.com/in/sajid-manzoor-730zz  
+**GitHub:** https://github.com/sajidmanzoor730
 
-Portfolio:
-https://sajidmanzoor730.github.io/sajid-portfolio/
-
-GitHub:
-https://github.com/sajidmanzoor730
-
----
-
-Building practical analytics projects from real-world operational problems.
+> Building practical analytics projects around real-world operational problems.
