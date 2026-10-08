@@ -2,6 +2,8 @@
 
 **Data Analyst | SQL | Power BI | Python | Excel | KPI Reporting**
 
+**4+ years in operations analytics · BCA · Targeting Data Analyst, BI & Operations Analytics roles**
+
 I work with operational and technical data to turn messy records into reliable KPIs, dashboards, reports, and actionable insights.
 
 My primary career focus is **Data Analytics and Operations Analytics**, with hands-on work across SQL, Python/Pandas, Power BI, Excel, data quality, KPI reporting, incident analysis, and operational reporting.
