@@ -1,6 +1,6 @@
 # Sajid Manzoor
 
-**Data Analyst | Technical Operations | SQL | Power BI | Python | KQL | Microsoft Security**
+**Data Analyst | SQL | Power BI | Python | Excel | KPI Reporting**
 
 I work with operational and technical data to turn messy records into reliable KPIs, dashboards, reports, and actionable insights.
 
@@ -70,9 +70,9 @@ Operational reporting focused on SLA, workload, QA, rework, status tracking, and
 
 ## Professional Focus
 
-My professional background is in **operations and data-focused work**, including technical operations, incident tracking, SLA monitoring, reporting, data quality, issue investigation, and process improvement.
+My professional background is in **operations and data-focused work**, including reporting, KPI tracking, data quality, incident analysis, SLA monitoring, and process improvement.
 
-I am primarily targeting **Data Analyst, BI, and Operations Analytics** opportunities, while also pursuing relevant **Customer Experience Engineering and technical operations** roles.
+I am primarily targeting **Data Analyst, BI, and Operations Analytics** opportunities.
 
 ## Technical Background
 
@@ -84,4 +84,4 @@ I also have a technical foundation in networking, support operations, ServiceNow
 **LinkedIn:** https://www.linkedin.com/in/sajid-manzoor-730zz  
 **GitHub:** https://github.com/sajidmanzoor730
 
-> Building practical analytics and technical operations projects around real-world problems.
+> Building practical analytics projects around real-world operational problems.
