@@ -49,5 +49,5 @@ Add these rows once the repos exist and are public:
 
 ## Let's connect
 
-- LinkedIn: [linkedin.com/in/sajid-manzoor-730zz](https://linkedin.com/in/sajid-manzoor-730zz)
+   - LinkedIn: [linkedin.com/in/sajid-manzoor-730zz](https://linkedin.com/in/sajid-manzoor-730zz)
 - Open to remote Technical Support Engineer roles
