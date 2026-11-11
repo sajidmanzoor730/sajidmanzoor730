@@ -57,7 +57,6 @@ Based in Jammu & Kashmir, India. I have 4+ years of L2 experience troubleshootin
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-
 **Also:** Chrome DevTools · Jira · ServiceNow · Cisco CLI
 
 ## Projects
