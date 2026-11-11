@@ -65,7 +65,7 @@ Based in Jammu & Kashmir, India. I have 4+ years of L2 experience troubleshootin
 | Project | What it is |
 |---|---|
 | [voip-support-automation](https://github.com/sajidmanzoor730/voip-support-automation) | SIP log parsing, SQL investigation queries, Postman API checks and Wireshark workflows, built from public sample captures |
-| [microsoft-security-lab](https://github.com/sajidmanzoor730/microsoft-security-lab | **Stack:** KQL · MITRE ATT&CK · Microsoft Sentinel and Defender concepts (practice scenarios) |
+| [microsoft-security-lab](https://github.com/sajidmanzoor730/microsoft-security-lab) | **Stack:** KQL · MITRE ATT&CK · Microsoft Sentinel and Defender concepts (practice scenarios) |
 | [helpdesk-kpi-dashboard](https://github.com/sajidmanzoor730/helpdesk-kpi-dashboard) | Python and Streamlit dashboard for SLA, CSAT and repeat-ticket KPIs, using a synthetic dataset ([live demo](https://hedesk-dashboard.streamlit.app/)) |
 
 All projects use public or synthetic data. None contains employer or customer data.
