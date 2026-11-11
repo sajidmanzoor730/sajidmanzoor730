@@ -25,8 +25,6 @@ Based in Jammu & Kashmir, India. I have 4+ years of L2 experience troubleshootin
 
 ## Tech stack
 
-
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
  
