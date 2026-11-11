@@ -2,7 +2,7 @@
 
 **Technical Support Engineer** · REST APIs · SIP/VoIP · Node.js · Networking
 
-Based in Gurgaon, Haryana, India. I have 4+ years in technical support, including L2 support since 2024, I troubleshoot API integrations, VoIP call quality and network issues for enterprise customers. I trace problems across client code, server logs, SQL data and packet captures, then explain the cause and the fix clearly to both customers and engineers.
+Based in Gurgaon, Haryana, India. I have 4+ years in technical support, including L2 support since 2024. I troubleshoot API integrations, VoIP call quality and network issues for enterprise customers. I trace problems across client code, server logs, SQL data and packet captures, then explain the cause and the fix clearly to both customers and engineers.
 
 [Portfolio](https://sajidmanzoor730.github.io/sajid-portfolio/) · [LinkedIn](https://www.linkedin.com/in/sajid-manzoor-730zz)
 
@@ -35,6 +35,7 @@ Based in Gurgaon, Haryana, India. I have 4+ years in technical support, includin
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&amp;logo=wireshark&amp;logoColor=white" alt="Wireshark">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&amp;logo=git&amp;logoColor=white" alt="Git">
 </p>
+
 **Also:** Chrome DevTools · Jira · ServiceNow · Cisco CLI
 
 ## Projects
