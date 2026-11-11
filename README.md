@@ -27,7 +27,6 @@ Based in Jammu & Kashmir, India. I have 4+ years of experience troubleshooting A
 
 **Also:** Chrome DevTools · Jira · ServiceNow · Cisco CLI · Postman API Fundamentals
 
-**Currently studying:** Cisco CCNA
 
 ## Projects
 
@@ -37,7 +36,6 @@ Based in Jammu & Kashmir, India. I have 4+ years of experience troubleshooting A
 
 <!--
 Add these rows once the repos exist and are public:
-| [twilio-sms-webhook-demo](https://github.com/sajidmanzoor730/twilio-sms-webhook-demo) | Node.js app that sends SMS and logs delivery status callbacks |
 | [voip-network-health-dashboard](https://github.com/sajidmanzoor730/voip-network-health-dashboard) | Node.js + React dashboard for SIP trunk status and latency |
 | [network-troubleshooting-playbook](https://github.com/sajidmanzoor730/network-troubleshooting-playbook) | First-pass checklists for TCP/IP, SIP, and TLS failures |
 -->
