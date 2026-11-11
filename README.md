@@ -25,36 +25,16 @@ Based in Jammu & Kashmir, India. I have 4+ years of L2 experience troubleshootin
 
 ## Tech stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
- 
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-
- 
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-
- 
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
- 
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
- 
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
- 
-
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-
- 
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&amp;logo=javascript&amp;logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/React-20232A?style=flat&amp;logo=react&amp;logoColor=61DAFB" alt="React">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&amp;logo=mysql&amp;logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&amp;logo=postman&amp;logoColor=white" alt="Postman">
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&amp;logo=wireshark&amp;logoColor=white" alt="Wireshark">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&amp;logo=git&amp;logoColor=white" alt="Git">
+</p>
 **Also:** Chrome DevTools · Jira · ServiceNow · Cisco CLI
 
 ## Projects
