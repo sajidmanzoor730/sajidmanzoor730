@@ -1,8 +1,8 @@
 # Hi, I'm Sajid Manzoor 👋
 
-**Technical Support Engineer** · REST APIs · SIP/VoIP · Node.js · Networking
+**Technical Support Engineer (L2)** · REST APIs · Messaging · SIP/VoIP · Networking
 
-Based in Gurgaon, Haryana, India. I have 4+ years in technical support, including L2 support since 2024. I troubleshoot API integrations, VoIP call quality and network issues for enterprise customers. I trace problems across client code, server logs, SQL data and packet captures, then explain the cause and the fix clearly to both customers and engineers.
+Based in India, with 4+ years of experience in client-facing technical support. I troubleshoot API integrations, messaging and email delivery, VoIP call quality, and network issues for enterprise customers. I trace problems across client code, server logs, SQL data, and packet captures, then communicate the cause and next steps clearly to customers and engineering teams.
 
 [Portfolio](https://sajidmanzoor730.github.io/sajid-portfolio/) · [LinkedIn](https://www.linkedin.com/in/sajid-manzoor-730zz)
 
@@ -10,46 +10,72 @@ Based in Gurgaon, Haryana, India. I have 4+ years in technical support, includin
 
 ## What I do
 
-- **API and integration troubleshooting:** separating client-side from server-side causes using Postman, request/response inspection and logs
-- **SIP/VoIP diagnostics:** call drops, one-way audio, registration failures and codec mismatches
-- **Network analysis:** TCP/UDP, DNS, DHCP, VPN, NAT, firewalls and SSL/TLS, using Wireshark
-- **Root-cause analysis:** application logs plus SQL queries to confirm findings
-- **Documentation:** runbooks and write-ups so recurring issues get resolved faster
+- **API and integration troubleshooting:** REST APIs, SDKs, webhooks, HTTP requests/responses, Postman and cURL
+- **Messaging and telecom support:** SMS delivery investigation, carrier escalations, SIP/VoIP call flows, RTP and call-quality analysis
+- **Email infrastructure:** SMTP/IMAP, MUA/MTA flows, TLS/STARTTLS, authentication and mail-delivery failures
+- **Network analysis:** TCP/UDP, DNS, DHCP, VPN, NAT, firewalls and packet captures with Wireshark
+- **Incident management:** L2 triage, root-cause analysis, SLA-focused case handling, escalation notes and runbooks
 
 ## How I troubleshoot
 
-1. **Reproduce:** collect the symptom, who is affected, when it started and what changed
-2. **Isolate:** decide whether the cause is client code, an API, a database query or the network
-3. **Confirm:** check logs, Postman requests, SQL results and Wireshark captures
-4. **Hand off:** resolve it, or escalate with the narrowed-down cause and steps to reproduce
+1. **Reproduce** the reported behavior and gather timestamps, request details, logs and scope.
+2. **Isolate** the failing layer: client, API/SDK, application, database, mail/telecom service or network.
+3. **Validate** the hypothesis using Postman, cURL, SQL, service logs and packet captures.
+4. **Resolve or escalate** with evidence, customer-safe next steps and clear documentation.
 
 ## Tech stack
 
 <p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&amp;logo=javascript&amp;logoColor=black" alt="JavaScript">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js">
-<img src="https://img.shields.io/badge/React-20232A?style=flat&amp;logo=react&amp;logoColor=61DAFB" alt="React">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&amp;logo=mysql&amp;logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&amp;logo=mysql&amp;logoColor=white" alt="SQL">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&amp;logo=postman&amp;logoColor=white" alt="Postman">
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&amp;logo=wireshark&amp;logoColor=white" alt="Wireshark">
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&amp;logo=streamlit&amp;logoColor=white" alt="Streamlit">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&amp;logo=git&amp;logoColor=white" alt="Git">
 </p>
 
-**Also:** Chrome DevTools · Jira · ServiceNow · Cisco CLI
+**Also:** SQLite · MySQL · Snowflake · AWS EC2 · CloudWatch · Jira · ServiceNow · Slack · TCP/IP · SMTP · IMAP
 
-## Projects
+## Featured projects
 
-| Project | What it is |
-|---|---|
-| [voip-support-automation](https://github.com/sajidmanzoor730/voip-support-automation) | SIP log parsing, SQL investigation queries, Postman API checks and Wireshark workflows, built from public sample captures |
-| [microsoft-security-lab](https://github.com/sajidmanzoor730/microsoft-security-lab) | Practice lab on alert triage, KQL and MITRE ATT&CK mapping, using an illustrative dataset |
-| [helpdesk-kpi-dashboard](https://github.com/sajidmanzoor730/helpdesk-kpi-dashboard) | Python and Streamlit dashboard for SLA, CSAT and repeat-ticket KPIs, using a synthetic dataset ([live demo](https://hedesk-dashboard.streamlit.app/)) |
+### 1. [VoIP Support Automation Toolkit](https://github.com/sajidmanzoor730/voip-support-automation)
+**Python · SQL/SQLite · Wireshark/TShark · Postman**
 
-All projects use public or synthetic data. None contains employer or customer data.
+A practical VoIP incident-investigation toolkit built around public Wireshark sample captures. Includes:
+- SIP log parsing and structured evidence extraction
+- SQL investigation queries for VoIP evidence
+- Wireshark display filters for SIP, RTP, DNS and TCP
+- Postman API health checks and incident-triage documentation
+- Worked investigations covering registration responses and one-way audio
+
+[View repository](https://github.com/sajidmanzoor730/voip-support-automation)
+
+### 2. [SMTP/IMAP Troubleshooting Lab](https://github.com/sajidmanzoor730/smtp-imap-troubleshooting-lab)
+**Python · SMTP · IMAP · TLS · Wireshark**
+
+A zero-dependency Python toolkit for diagnosing email connectivity and delivery failures across network, TLS, authentication and policy layers. Includes:
+- SMTP and IMAP probes with readable protocol transcripts
+- A diagnosis engine mapping reply codes and socket/TLS errors to likely causes
+- Fault-injecting mock servers for nine success and failure scenarios
+- Runbooks, Wireshark filters and automated tests
+
+[View repository](https://github.com/sajidmanzoor730/smtp-imap-troubleshooting-lab)
+
+### 3. [Helpdesk KPI Dashboard](https://github.com/sajidmanzoor730/helpdesk-kpi-dashboard)
+**Python · Pandas · Streamlit**
+
+An interactive dashboard for exploring published IT helpdesk reporting data. It loads Montgomery County Government's public HelpIT summary dataset and provides fiscal-year and report-section views, with explicit data validation and source limitations documented.
+
+[Live dashboard](https://hedesk-dashboard.streamlit.app/) · [View repository](https://github.com/sajidmanzoor730/helpdesk-kpi-dashboard)
+
+> **Data integrity:** These projects use public, synthetic or locally generated lab data as documented in their repositories. They do not contain employer or customer data. The Helpdesk dashboard's live views use aggregated public summary data; its older synthetic ticket-level exercise is kept separate and is not presented as real operational performance.
 
 ## Let's connect
 
 - LinkedIn: [linkedin.com/in/sajid-manzoor-730zz](https://www.linkedin.com/in/sajid-manzoor-730zz)
 - Portfolio: [sajidmanzoor730.github.io/sajid-portfolio](https://sajidmanzoor730.github.io/sajid-portfolio/)
-- Open to remote Technical Support Engineer roles
+- GitHub: [github.com/sajidmanzoor730](https://github.com/sajidmanzoor730)
+
+Open to Technical Support Engineer opportunities focused on APIs, messaging, telecom and enterprise software support.
