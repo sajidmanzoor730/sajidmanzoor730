@@ -8,20 +8,21 @@ Based in India, with 4+ years of experience in client-facing technical support. 
 
 ---
 
-## What I do
+## Core technical skills
 
-- **API and integration troubleshooting:** REST APIs, SDKs, webhooks, HTTP requests/responses, Postman and cURL
-- **Messaging and telecom support:** SMS delivery investigation, carrier escalations, SIP/VoIP call flows, RTP and call-quality analysis
-- **Email infrastructure:** SMTP/IMAP, MUA/MTA flows, TLS/STARTTLS, authentication and mail-delivery failures
-- **Network analysis:** TCP/UDP, DNS, DHCP, VPN, NAT, firewalls and packet captures with Wireshark
-- **Incident management:** L2 triage, root-cause analysis, SLA-focused case handling, escalation notes and runbooks
+- **API and integration troubleshooting:** REST APIs, SDKs, webhooks, HTTP requests/responses, Postman, cURL, JSON
+- **Messaging and telecom support:** SMS delivery investigation, message lifecycle and delivery callbacks, carrier escalations, SIP/VoIP call flows, RTP and call-quality analysis
+- **Email infrastructure:** SMTP, IMAP, MUA/MTA, TLS/STARTTLS, authentication, mail-flow and delivery troubleshooting
+- **Networking:** TCP/IP, TCP/UDP, DNS, DHCP, VPN, NAT, firewalls, Wireshark and packet capture analysis
+- **Support operations:** L2 incident triage, root-cause analysis, SLA management, escalation handling, Jira, ServiceNow and runbook documentation
+- **Cloud and data:** AWS EC2, CloudWatch, SQL, SQLite, MySQL, Snowflake
 
-## How I troubleshoot
+## Troubleshooting approach
 
-1. **Reproduce** the reported behavior and gather timestamps, request details, logs and scope.
-2. **Isolate** the failing layer: client, API/SDK, application, database, mail/telecom service or network.
-3. **Validate** the hypothesis using Postman, cURL, SQL, service logs and packet captures.
-4. **Resolve or escalate** with evidence, customer-safe next steps and clear documentation.
+1. **Reproduce:** Gather symptoms, timestamps, request details, logs and impact.
+2. **Isolate:** Identify whether the issue is in the client, API/SDK, application, database, mail/telecom service or network.
+3. **Validate:** Use Postman, cURL, SQL, service logs and packet captures to confirm the cause.
+4. **Resolve or escalate:** Document evidence, communicate next steps and provide a clear engineering handoff when needed.
 
 ## Tech stack
 
@@ -36,46 +37,20 @@ Based in India, with 4+ years of experience in client-facing technical support. 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&amp;logo=git&amp;logoColor=white" alt="Git">
 </p>
 
-**Also:** SQLite · MySQL · Snowflake · AWS EC2 · CloudWatch · Jira · ServiceNow · Slack · TCP/IP · SMTP · IMAP
-
 ## Featured projects
 
-### 1. [VoIP Support Automation Toolkit](https://github.com/sajidmanzoor730/voip-support-automation)
-**Python · SQL/SQLite · Wireshark/TShark · Postman**
+| Project | Technologies | Description |
+|---|---|---|
+| [VoIP Support Automation Toolkit](https://github.com/sajidmanzoor730/voip-support-automation) | Python, SQL/SQLite, SIP, RTP, Wireshark/TShark, Postman | SIP log parsing, structured evidence extraction, SQL investigation queries, packet analysis filters, API health checks and incident-triage workflows using public sample captures. |
+| [SMTP/IMAP Troubleshooting Lab](https://github.com/sajidmanzoor730/smtp-imap-troubleshooting-lab) | Python, SMTP, IMAP, TCP/IP, TLS/STARTTLS, Wireshark | Email connectivity and delivery diagnostics, protocol probes, reply-code classification, authentication and TLS troubleshooting, fault-injecting mock servers, runbooks and automated tests. |
+| [Helpdesk KPI Dashboard](https://github.com/sajidmanzoor730/helpdesk-kpi-dashboard) | Python, Pandas, Streamlit, CSV, data validation | Interactive analysis of published IT helpdesk summary data, with fiscal-year and report-section filters, data normalization, validation and documented reporting limitations. [Live dashboard](https://hedesk-dashboard.streamlit.app/). |
 
-A practical VoIP incident-investigation toolkit built around public Wireshark sample captures. Includes:
-- SIP log parsing and structured evidence extraction
-- SQL investigation queries for VoIP evidence
-- Wireshark display filters for SIP, RTP, DNS and TCP
-- Postman API health checks and incident-triage documentation
-- Worked investigations covering registration responses and one-way audio
-
-[View repository](https://github.com/sajidmanzoor730/voip-support-automation)
-
-### 2. [SMTP/IMAP Troubleshooting Lab](https://github.com/sajidmanzoor730/smtp-imap-troubleshooting-lab)
-**Python · SMTP · IMAP · TLS · Wireshark**
-
-A zero-dependency Python toolkit for diagnosing email connectivity and delivery failures across network, TLS, authentication and policy layers. Includes:
-- SMTP and IMAP probes with readable protocol transcripts
-- A diagnosis engine mapping reply codes and socket/TLS errors to likely causes
-- Fault-injecting mock servers for nine success and failure scenarios
-- Runbooks, Wireshark filters and automated tests
-
-[View repository](https://github.com/sajidmanzoor730/smtp-imap-troubleshooting-lab)
-
-### 3. [Helpdesk KPI Dashboard](https://github.com/sajidmanzoor730/helpdesk-kpi-dashboard)
-**Python · Pandas · Streamlit**
-
-An interactive dashboard for exploring published IT helpdesk reporting data. It loads Montgomery County Government's public HelpIT summary dataset and provides fiscal-year and report-section views, with explicit data validation and source limitations documented.
-
-[Live dashboard](https://hedesk-dashboard.streamlit.app/) · [View repository](https://github.com/sajidmanzoor730/helpdesk-kpi-dashboard)
-
-> **Data integrity:** These projects use public, synthetic or locally generated lab data as documented in their repositories. They do not contain employer or customer data. The Helpdesk dashboard's live views use aggregated public summary data; its older synthetic ticket-level exercise is kept separate and is not presented as real operational performance.
+**Project data and integrity:** The VoIP toolkit uses public Wireshark sample captures. The SMTP/IMAP lab uses local mock servers and test accounts. The Helpdesk dashboard's live views use aggregated public Montgomery County Government HelpIT data; its earlier synthetic ticket-level exercise is kept separate. No project contains employer or customer data.
 
 ## Let's connect
 
-- LinkedIn: [linkedin.com/in/sajid-manzoor-730zz](https://www.linkedin.com/in/sajid-manzoor-730zz)
-- Portfolio: [sajidmanzoor730.github.io/sajid-portfolio](https://sajidmanzoor730.github.io/sajid-portfolio/)
-- GitHub: [github.com/sajidmanzoor730](https://github.com/sajidmanzoor730)
+- **LinkedIn:** [linkedin.com/in/sajid-manzoor-730zz](https://www.linkedin.com/in/sajid-manzoor-730zz)
+- **Portfolio:** [sajidmanzoor730.github.io/sajid-portfolio](https://sajidmanzoor730.github.io/sajid-portfolio/)
+- **GitHub:** [github.com/sajidmanzoor730](https://github.com/sajidmanzoor730)
 
-Open to Technical Support Engineer opportunities focused on APIs, messaging, telecom and enterprise software support.
+Open to Technical Support Engineer opportunities focused on REST APIs, messaging, telecom and enterprise software support.
